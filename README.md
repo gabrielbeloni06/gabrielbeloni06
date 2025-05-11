@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, eu sou o Gabriel</h1>
+<h1 align="center">Olá👋, eu sou o Gabriel Egídio</h1>
 <h3 align="center">Estudante de Ciência da Computação da PUC Minas</h3>
 
 ---
@@ -6,12 +6,12 @@
 - 🖥️ Atualmente, tenho experiência com **C#, JavaScript, HTML, CSS e C**
 - 📈 Aprendendo **C** e aprofundando em **Desenvolvimento WEB**
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
-- 👨‍💻 Confira meus projetos: [Repositórios no GitHub](https://github.com/gabrielbeloni06?tab=repositories)
-- 📝 Saiba mais sobre minha carreira na área de programação: [LinkedIn](...)
+- 👨‍💻 Confira meus projetos: [GitHub](https://github.com/gabrielbeloni06?tab=repositories)
+- 📝 Saiba mais sobre minha carreira na área de programação:(...)
 
 ---
 
-<h3 align="left">Sobre mim:</h3>
+<h3 align="left">Redes Sociais:</h3>
 <p align="left">
   <a href="https://instagram.com/gabriell_beloni" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
@@ -28,6 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
 </p>
 
 ---
