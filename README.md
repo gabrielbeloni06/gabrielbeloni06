@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=GitHub+do+Gabriel+Eg%C3%ADdio&color=2ecc71"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub&color=00008B"
   />
 </h1>
 <h3 align="center">Estudante de Ciência da Computação PUC Minas</h3>
