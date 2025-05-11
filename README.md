@@ -1,5 +1,9 @@
-<h1 align="center">Olá👋, eu sou o Gabriel Egídio</h1>
-<h3 align="center">Estudante de Ciência da Computação da PUC Minas</h3>
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=GitHub+do+Gabriel+Eg%C3%ADdio&color=2ecc71"
+  />
+</h1>
+<h3 align="center">Estudante de Ciência da Computação PUC Minas</h3>
 
 ---
 
@@ -21,18 +25,20 @@
 ---
 
 <h3 align="left">Linguagens & Ferramentas:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/>
-</p>
+<div align="center">
+
+| Languages | Web Development | Backend & APIs |
+|:---:|:---:|:---:|
+| <div align="center"><img src="https://skillicons.dev/icons?i=c,cs"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></div> |
+| Databases | DevOps & Cloud | IDEs & Tools |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,azure,git,github" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
+| | Operating Systems | |
+| | <div align="center"><img src="https://skillicons.dev/icons?i=windows" /></div>  | |
+</div>
 
 ---
 
 <h3 align="left">Estatísticas do GitHub:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbeloni06&show_icons=true&locale=en&layout=compact" alt="gabrielbeloni06" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbeloni06&show_icons=true&locale=en" alt="gabrielbeloni06" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielbeloni06&show_icons=true&locale=en&layout=compact&theme=dark" alt="gabrielbeloni06" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielbeloni06&show_icons=true&locale=en&theme=dark" alt="gabrielbeloni06" /></p>
+
