@@ -7,11 +7,11 @@
 
 ---
 
-- 🖥️ Atualmente, tenho experiência com **C#, JavaScript, HTML, CSS e C**
-- 📈 Aprendendo **C** e aprofundando em **Desenvolvimento WEB**
+- 🖥️ Atualmente, tenho experiência com **C#,C,C++, JavaScript, HTML, CSS**
+- 📈 Aprendendo **C++,Python e Java** e aprofundando em **Desenvolvimento WEB**
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
 - 👨‍💻 Confira meus projetos: [GitHub](https://github.com/gabrielbeloni06?tab=repositories)
-- 📝 Saiba mais sobre minha carreira na área de programação:(...)
+- 📝 Saiba mais sobre minha carreira na área de programação:[Linkedin](...)
 
 ---
 
@@ -29,7 +29,7 @@
 
 | Languages | Web Development | Backend & APIs |
 |:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=c,cs"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=c,cs,cpp"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></div> |
 | Databases | DevOps & Cloud | IDEs & Tools |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,azure,git,github" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
 | | Operating Systems | |
