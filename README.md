@@ -33,7 +33,7 @@
 | Databases | DevOps & Cloud | IDEs & Tools |
 | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,azure,git,github" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
 | | Operating Systems | |
-| | <div align="center"><img src="https://skillicons.dev/icons?i=windows" /></div>  | |
+| | <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux" /></div>  | |
 </div>
 
 ---
