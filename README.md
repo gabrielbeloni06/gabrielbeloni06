@@ -11,7 +11,7 @@
 - 📈 Aprendendo **C++,Python e Java** e aprofundando em **Desenvolvimento WEB**
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
 - 👨‍💻 Confira meus projetos: [GitHub](https://github.com/gabrielbeloni06?tab=repositories)
-- 📝 Saiba mais sobre minha carreira na área de programação:[Linkedin](...)
+- 📝 Saiba mais sobre minha carreira na área de programação:[Linkedin](https://br.linkedin.com/in/devgabrielbeloni)
 
 ---
 
