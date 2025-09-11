@@ -1,15 +1,15 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Bem-vindo+ao+meu+GitHub&color=2ecc71"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dev+FullStack&color=2ecc71"
   />
 </h1>
-<h3 align="center">Desenvolvedor de Software</h3>
+<h3 align="center">Programador</h3>
 
 ---
 - 💼 Estagiário da **Vivo🌐**
-- 🎓 Estudante de **Ciência da Computação PUC Minas**
-- 🖥️ Atualmente, tenho experiência com **Linguagens C-Like e Desenvolvimento Front End**
-- 📈 Aprendendo atualmente **Algoritmos e Estrutura de Dados II, Arquitetura de Computadores I e Engenharia de Software I**
+- 🎓 Formação: **Ciência da Computação - PUC Minas**
+- 🖥️ Conhecimento: **FrontEnd, BackEnd e Lógica de Programação**
+- 📈 Aprendendo: **Algoritmos e Estrutura de Dados II, Arquitetura de Computadores I e Engenharia de Software I**
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
 
 ---
