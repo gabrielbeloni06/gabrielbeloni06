@@ -1,6 +1,6 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dev+FullStack&color=2ecc71"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dev+FullStack&color=9bj1"
   />
 </h1>
 <h3 align="center">Programador</h3>
