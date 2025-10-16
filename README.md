@@ -1,14 +1,14 @@
 <h1 align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Dev+FullStack&color=9bj1"
+    src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Analista+de+Dados&color=9bj1"
   />
 </h1>
 <h3 align="center">Programador</h3>
 
 ---
-- 💼 Estagiário da **Vivo🌐**
+- 💼 Trabalho: Estagiário **Vivo🌐**
 - 🎓 Formação: **Ciência da Computação - PUC Minas**
-- 🖥️ Conhecimento: **FrontEnd, BackEnd e Lógica de Programação**
+- 🖥️ Conhecimento: **Atualmente atuando na área de Dados**
 - 📈 Aprendendo: **Algoritmos e Estrutura de Dados II, Arquitetura de Computadores I e Engenharia de Software I**
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
 
@@ -32,9 +32,9 @@
 
 | Languages | Web Development | Backend & APIs |
 |:---:|:---:|:---:|
-| <div align="center"><img src="https://skillicons.dev/icons?i=java,c,py"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,css,nodejs,js" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=java,c,py"/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=html,react" /><br/></div> | <div align="center"><img src="https://skillicons.dev/icons?i=nodejs,java" /></div> |
 | Databases | DevOps & Cloud | IDEs & Tools |
-| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/json/json-original.svg" alt="json" width="40" height="40"/> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,azure,git,github" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,replit" /></div> |
+| <div align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=aws,azure" /></div> | <div align="center"><img src="https://skillicons.dev/icons?i=vscode,eclipse,docker" /></div> |
 | | Operating Systems | |
 | | <div align="center"><img src="https://skillicons.dev/icons?i=windows,linux" /></div>  | |
 </div>
