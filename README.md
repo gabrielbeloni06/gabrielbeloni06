@@ -41,10 +41,10 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 
 
 ### 🚀 Projetos em Destaque
-[![🌐 Portfólio](https://img.shields.io/badge/ShadowLevel-Intelligent-white?style=for-the-badge&logo=openai)](https://github.com/gabrielbeloni06/ShadowLevel)
-[![🌐 Portfólio](https://img.shields.io/badge/Portfólio-Web-blue?style=for-the-badge&logo=github)](https://gabrielbeloni.netlify.app)
-[![🪙 Conversor de Moedas](https://img.shields.io/badge/Conversor-BackEnd-green?style=for-the-badge&logo=ethereum)](https://github.com/gabrielbeloni06/currencyConverter)
-[![🖥️ Página de Login](https://img.shields.io/badge/Login-Web-purple?style=for-the-badge&logo=react)](https://github.com/gabrielbeloni06/loginPage)
+[![Controle por Gestos](https://img.shields.io/badge/ShadowLevel-Intelligent-white?style=for-the-badge&logo=openai)](https://github.com/gabrielbeloni06/ShadowLevel)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Web-blue?style=for-the-badge&logo=github)](https://gabrielbeloni.netlify.app)
+[![Conversor de Moedas](https://img.shields.io/badge/Conversor-BackEnd-green?style=for-the-badge&logo=ethereum)](https://github.com/gabrielbeloni06/currencyConverter)
+[![Página de Login](https://img.shields.io/badge/Login-Web-purple?style=for-the-badge&logo=react)](https://github.com/gabrielbeloni06/loginPage)
 
 ---
 
