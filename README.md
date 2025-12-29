@@ -45,7 +45,7 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 [![List](https://img.shields.io/badge/MyListIt-FullStack-black?style=for-the-badge&logo=python)](https://github.com/gabrielbeloni06/ListIt)
 [![RazerWeb](https://img.shields.io/badge/RazerWeb-ECOMMERCE-green?style=for-the-badge&logo=react&logoColor=00FF00)](https://github.com/gabrielbeloni06/razerweb)
 [![SkyNex](https://img.shields.io/badge/Skynex-Three-red?style=for-the-badge&logo=Three.js&logoColor=FFFFFF)](https://github.com/gabrielbeloni06/Skynex)
-[![Portfólio](https://img.shields.io/badge/Portfólio-Web-orange?style=for-the-badge&logo=github)](https://gabrielbeloni.netlify.app)
+[![Portfólio](https://img.shields.io/badge/Portfólio-Web-orange?style=for-the-badge&logo=github)](https://gabrielbeloni.vercel.app/)
 [![Conversor de Moedas](https://img.shields.io/badge/Conversor-BackEnd-green?style=for-the-badge&logo=ethereum)](https://github.com/gabrielbeloni06/currencyConverter)
 [![Página de Login](https://img.shields.io/badge/Login-Web-purple?style=for-the-badge&logo=react)](https://github.com/gabrielbeloni06/loginPage)
 
@@ -53,7 +53,7 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="center">
-  <a href="https://gabrielbeloni.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+  <a href="https://gabrielbeloni.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
   <a href="https://instagram.com/gabriell_beloni" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
   <a href="https://github.com/gabrielbeloni06?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://br.linkedin.com/in/devgabrielbeloni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
