@@ -31,10 +31,10 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 ---
 
 
-- 💼 Trabalho: Estagiário da **Vivo 🌐**  
+- 💼 Trabalho: Dev Júnior **Vivo 🌐**  
 - 🎓 Formação: **Ciência da Computação - PUC Minas**  
-- 🖥️ Conhecimento: **Atualmente atuando nas Áreas de Automação e de Dados**  
-- 📈 Aprendendo: **Algoritmos e Estrutura de Dados II, Arquitetura de Computadores I e Engenharia de Software I**  
+- 🖥️ Conhecimento: **Atualmente atuando na Área de Desenvolvimento de Automações**  
+- 📈 Aprendendo: **Desenvolvimento de Softwares FullStack - Next.js**  
 - ⭐ 2x Medalha de ouro em matemática **OBMEP**
 
 ---
