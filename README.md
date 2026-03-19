@@ -10,7 +10,7 @@
   />
 </h1>
 
-<h3 align="center">Desenvolvedor Full Stack</h3>
+<h3 align="center">Desenvolvedor Júnior</h3>
 
 ---
 
