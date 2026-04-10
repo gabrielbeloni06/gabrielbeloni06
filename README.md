@@ -53,7 +53,7 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 
 <h3 align="left">Redes Sociais:</h3>
 <p align="center">
-  <a href="https://gabrielbeloni.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
+  <a href="https://gabrielbeloni.com.br" target="_blank"><img src="https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=google-chrome" alt="Website" /></a>
   <a href="https://instagram.com/gabriell_beloni" target="_blank"><img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram" alt="Instagram" /></a>
   <a href="https://github.com/gabrielbeloni06?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" /></a>
   <a href="https://br.linkedin.com/in/devgabrielbeloni" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
