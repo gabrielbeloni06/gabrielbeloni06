@@ -41,8 +41,8 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 
 
 ### 🚀 Projetos em Destaque
-[![Sistema Solar](https://img.shields.io/badge/Singularity-purple?style=for-the-badge&logo=openai)](https://github.com/gabrielbeloni06/Singularity)
-[![Controle por Gestos](https://img.shields.io/badge/ShadowLevel-Intelligent-white?style=for-the-badge&logo=openai)](https://github.com/gabrielbeloni06/ShadowLevel)
+[![Sistema Solar](https://img.shields.io/badge/Singularity-3DModels-purple?style=for-the-badge&logo=next)](https://github.com/gabrielbeloni06/Singularity)
+[![Controle por Gestos](https://img.shields.io/badge/ShadowLevel-Intelligent-white?style=for-the-badge&logo=amazon-aws)](https://github.com/gabrielbeloni06/ShadowLevel)
 [![List](https://img.shields.io/badge/MyListIt-FullStack-black?style=for-the-badge&logo=python)](https://github.com/gabrielbeloni06/ListIt)
 [![RazerWeb](https://img.shields.io/badge/RazerWeb-ECOMMERCE-green?style=for-the-badge&logo=react&logoColor=00FF00)](https://github.com/gabrielbeloni06/razerweb)
 [![SkyNex](https://img.shields.io/badge/Skynex-Three-red?style=for-the-badge&logo=Three.js&logoColor=FFFFFF)](https://github.com/gabrielbeloni06/Skynex)
