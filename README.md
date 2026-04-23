@@ -10,7 +10,7 @@
   />
 </h1>
 
-<h3 align="center">Desenvolvedor Júnior</h3>
+<h3 align="center">Desenvolvedor</h3>
 
 ---
 
