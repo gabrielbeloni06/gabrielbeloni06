@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f&height=200&section=header&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000055&height=200&section=header&fontSize=50&fontColor=ffffff" />
 </p>
 
 
 <h1 align="center">
   <img
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvedor+Full+Stack;Interfaces+Web;Gabriel+Beloni&color=00ffcc"
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Desenvolvedor+Full+Stack;Interfaces+Web;Gabriel+Beloni&color=000055"
   />
 </h1>
 
@@ -98,7 +98,7 @@ Me chamo Gabriel, tenho 19 anos e sou de Belo Horizonte, Brasil. Atualmente esto
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff7f&height=200&section=footer&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000055&height=200&section=footer&fontSize=50&fontColor=ffffff" />
 </p>
 
 
